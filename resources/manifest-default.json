@@ -1,0 +1,14 @@
+{
+  "dataset":
+  {
+    "path": "/absolute/path/to/dataset.csv"
+  },
+  "calculators": [
+    {
+      "path": "/absolute/path/to/Donald Duck - Day Pre-Estimation Calculator.xlsm"
+    },
+    {
+      "path": "/absolute/path/to/Mickey Mouse - Day Pre-Estimation Calculator.xlsm"
+    }
+  ]
+}
